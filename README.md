@@ -1,7 +1,7 @@
 # jira-dispatch-relay
 
 A Cloudflare Worker that turns a Jira webhook into a GitHub `repository_dispatch`, so Jira status moves start the
-agent workflows of [film-devel](https://github.com/robotjoosen/film-devel) without Jira Automation.
+agent workflows of [devault-film](https://github.com/robotjoosen/devault-film) without Jira Automation.
 
 | Ticket moves to | Dispatch event      |
 |-----------------|---------------------|
